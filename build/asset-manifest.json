@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/Mortgage-Calculator-App/static/js/main.1dafe387.js",
+    "static/js/787.b6e36b20.chunk.js": "/Mortgage-Calculator-App/static/js/787.b6e36b20.chunk.js",
+    "index.html": "/Mortgage-Calculator-App/index.html",
+    "main.1dafe387.js.map": "/Mortgage-Calculator-App/static/js/main.1dafe387.js.map",
+    "787.b6e36b20.chunk.js.map": "/Mortgage-Calculator-App/static/js/787.b6e36b20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1dafe387.js"
+  ]
+}
